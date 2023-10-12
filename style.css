@@ -1,0 +1,27 @@
+body{
+    background-image: url(landscape-nature-view-background-view-window-landscape-nature-view-background-view-window-wonderful-landscape-121459679.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.login_div1 , .login_div2{
+    background-color: white;
+    padding:10px; 
+    float:none;
+    border-radius: 15px
+    
+}
+
+#player1_name_input , #player2_name_input
+{
+    display:inline-block;
+    margin-bottom:20px;
+}
+
+.quiz1 , .quiz2{
+    background-color:white;
+    padding:10px; 
+    float:none;
+    border-radius: 15px;
+    margin: 30px;
+    
+}
